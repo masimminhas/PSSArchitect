@@ -1,5 +1,7 @@
 # PSSArchitect
 An Industrial workbench to provide PSS Modelling feature with auto generation of PSS Source Code.
+# Istallation Pre-requisite
+The best option is to use ObeoDesigner 11.6 which implicitly contains both Sirius 6.0 and Acceleo.In Case you choose Eclipse Modelling Framework or any other version of eclipse, you will need to install Sirius 6.0 and Acceleo Query Framework 7.0.0.2.
 # Installation Instructions
 1. Download both PSSArchitect_1.0.0 and PSSArchitectGenerator_1.0.0.
 2. Open ObeoDesigner/Eclipse Modelling Framework.
